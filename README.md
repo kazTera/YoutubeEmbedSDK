@@ -3,13 +3,20 @@ YoutubeAPIに接続するFrameworkを埋め込んだSwiftサンプル
 
 ## TODO
 [] YoutubeAPIのアクセスキー
+
 https://console.developers.google.com/apis/api/youtube.googleapis.com/credentials?hl=ja&organizationId=1083172649770&project=youtubeembedsdk
-[] APIClient
-[] Response
-[] UserHandler
-[] Framework
-[] SampleApp
-[] Test code
+
+[ ] APIClient
+
+[ ] Response
+
+[ ] UserHandler
+
+[ ] Framework
+
+[ ] SampleApp
+
+[ ] Test code
 
 ## クラスず
 
